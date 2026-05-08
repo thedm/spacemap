@@ -4,7 +4,7 @@
    width="521.56506mm"
    height="269.36197mm"
    id="svg11251"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="map.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,18 +24,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1186"
-     inkscape:window-height="1032"
+     inkscape:window-width="1536"
+     inkscape:window-height="891"
      id="namedview718"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.54505192"
-     inkscape:cx="1466.8327"
-     inkscape:cy="706.35473"
+     inkscape:zoom="1.9359249"
+     inkscape:cx="1082.4284"
+     inkscape:cy="409.10678"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer11"
      inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      units="mm"
@@ -46,14 +46,17 @@
      inkscape:document-units="mm"
      inkscape:pagecheckerboard="0"
      width="521.56506mm"
-     height="269.36197mm">
+     height="269.36197mm"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        spacingy="1"
        spacingx="1"
        type="xygrid"
        id="grid6010"
        originx="36.414071"
-       originy="24.880777" />
+       originy="24.880777"
+       units="mm" />
   </sodipodi:namedview>
   <defs
      id="defs11253">
@@ -3094,7 +3097,7 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:#803300;stroke-width:0.743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     </g>
     <g
-       transform="rotate(90,915.73737,670.26032)"
+       transform="rotate(90,1134.0508,597.32193)"
        id="g8187"
        style="display:inline">
       <rect
@@ -3119,7 +3122,7 @@
            sodipodi:role="line">Shop</tspan></text>
     </g>
     <g
-       transform="translate(160.95215,75.196533)"
+       transform="rotate(90,1126.8269,646.02201)"
        id="g8192"
        style="display:inline">
       <rect
@@ -3604,7 +3607,7 @@
     <g
        id="g8078-8"
        style="display:inline"
-       transform="translate(-178.776,-79.130247)">
+       transform="translate(-4.6046743,-342.48571)">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:177.165;marker:none;enable-background:accumulate"
          id="rect3700-8"
@@ -3680,7 +3683,7 @@
     <g
        id="g8078-4"
        style="display:inline"
-       transform="translate(-178.776,-107.47656)">
+       transform="translate(23.741664,-342.48571)">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:177.165;marker:none;enable-background:accumulate"
          id="rect3700-1"
@@ -4124,7 +4127,7 @@
            style="font-size:13.0588px;line-height:1.25">Spinde</tspan></text>
     </g>
     <g
-       transform="translate(26.35375,-160.22439)"
+       transform="rotate(90,1389.2152,615.18515)"
        id="g8262">
       <g
          style="display:inline"
